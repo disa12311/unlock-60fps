@@ -1,32 +1,38 @@
-Unlock 120FPS NO ROOT - JordanTweaks
+# Unlock 60FPS NO ROOT
 
-Installation Command:
+## Installation Command
 
-sh /sdcard/120FPS/Execute.sh
-
+```sh
+sh /sdcard/60FPS/Execute.sh
+```
 or
+```sh
+sh /storage/emulated/0/60FPS/Execute.sh
+```
 
-sh /storage/emulated/0/120FPS/Execute.sh
+## Uninstallation Command
 
-Uninstallation Command:
-
-sh /sdcard/120FPS/Delete.sh
-
+```sh
+sh /sdcard/60FPS/Delete.sh
+```
 or
+```sh
+sh /storage/emulated/0/60FPS/Delete.sh
+```
 
-sh /storage/emulated/0/120FPS/Delete.sh
+---
 
-- Features:
+## Features
 
-- 120 FPS Mode
+- 60 FPS Mode
 - FPS Boost
 - Performance Boost
 - Setprop Codes
 - Allow Non-Native Refresh Rates
 - Disable FPS Capping
-- High 120Hz Refresh Rate
+- High 60Hz Refresh Rate
 - Touch Boost
 - Optimize UI
-- SkiaGl Renderer
+- Tải lại SDR
 
-Credit: @JordanTweaks Thanks!
+---
